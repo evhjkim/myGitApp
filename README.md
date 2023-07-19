@@ -1,0 +1,2 @@
+# myGitApp
+git setting
